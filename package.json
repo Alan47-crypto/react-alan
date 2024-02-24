@@ -24,9 +24,17 @@
     "eslint-plugin-react-refresh": "^0.3.4",
     "typescript": "^5.0.2",
     "vite": "^4.3.2"
-  },
+  {
+  "name": "alan-react",
+  "version": "1.0.0",
+  "description": "fleek template",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Alan47-crypto/react-alan.git"
+    "type": "git",
+    "url": "https://github.com/Alan47-crypto/react-alan.git"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "some-library": "^1.0.0"
   }
 }
+
